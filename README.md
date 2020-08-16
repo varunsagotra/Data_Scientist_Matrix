@@ -1,2 +1,2 @@
 # Data_Scientist_Matrix
-Data_Scientist_Matrix :: WIP &lt;Work In-progress>
+Data_Scientist_Matrix :: Just for Reference
